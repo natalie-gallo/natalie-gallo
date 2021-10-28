@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natalie-gallo
-- 👀 I’m interested in web devlopment :)
+- 👀 I’m a student <3
 - 🌱 I’m currently learning python!
 - 💞️ n/a
 - 📫 n/a
