@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natalie-gallo
-- 👀 I’m a student <3
+- 👀 I’m a college student <3
 - 🌱 I’m currently learning c++!
 - 💞️ n/a
 - 📫 n/a
