@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natalie-gallo
 - 👀 I’m a college student <3
 - 🌱 I’m currently learning c++!
-- 💞️ n/a
+- 💞️ Novice
 - 📫 n/a
 
 <!---
