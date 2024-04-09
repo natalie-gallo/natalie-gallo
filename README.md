@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natalie-gallo
 - 👀 I’m a college student <3
-- 🌱 I’m currently learning Swift!
+- 🌱 I’m currently learning Web Development!
 - 💞️ Novice
 - 📫 n/a
 
