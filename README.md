@@ -25,7 +25,7 @@ when I enrolled in a college level Intro to Computer Science class that I now TA
 
 New York City!
 
-## Why I choose to pursue a career in tech
+## Why I chose to pursue a career in tech
 
 I never really had a particular interest that I thought I could make a career out of. Then, when I took my first coding class, it peaked my interest. 
 It was the first unconventional class I had ever taken (as in outside the typical general Math, English, History, and Science classes I've taken). I 
