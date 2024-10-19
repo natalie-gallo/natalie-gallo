@@ -1,6 +1,10 @@
 # Howdy 🤠
 
-Welcome to my github! This is a learning space because I am a still a novice and learning is for life 🫡
+Welcome to my github! This is a safe learning space 🫡
+
+# [Portfolio](https://natalie-gallo.github.io/portfolio/)
+
+Click above to view my portfolio! Alternative link: https://natalie-gallo.github.io/portfolio/
 
 ## Who I am
 
