@@ -18,7 +18,7 @@ Love all things Beyonce, anime, musicals, and webtoons!
 
 ## What I do
 
-I’m a college student majoring in Computer Science and work as a part-time Undergraduate Teaching Assistant. Currently learning Web Development and grinding school work :,)
+I’m a college student majoring in Computer Science and work as a part-time Undergraduate Teaching Assistant. Currently learning iOS Development and grinding school work :,)
 
 ## When I began programming
 
